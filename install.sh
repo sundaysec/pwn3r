@@ -79,5 +79,6 @@ if [ $? -eq 0 ]; then
   done
 fi
 
+access
 
 echo "N⬠∫∫⎔"
