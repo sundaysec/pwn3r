@@ -3,7 +3,7 @@ reverse shell generator
 
 Installing
 ==
-![alt text](https://github.com/sundaysec/pwn3r/core/images/install.png?raw=true)
+![alt text](https://github.com/sundaysec/pwn3r/blob/master/core/images/install.png?raw=true)
 <br/>
 Clone me:</br>
 `git clone https://github.com/sundaysec/pwn3r.git`<br/>
